@@ -15,12 +15,21 @@ p{
 text-align: center;
 }
 
+em strong{
+  color: red;
+}
+
 #missao {
 font-size: 28px;
 }
 
 #banner{
 width: 100%;
+}
+
+.beneficios{
+padding: 20px;
+background-color: #FFFFFF;
 }
 
 ul{
@@ -32,4 +41,8 @@ margin-right: 15%;
 
 .imagem-beneficio{
 width: 50%;
+}
+
+.item{
+font-style: italic;
 }
